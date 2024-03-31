@@ -19,5 +19,3 @@ fun main() {
         }
     println(result)
 }
-
-main()
